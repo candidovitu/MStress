@@ -1,0 +1,24 @@
+{
+  "name": "mstress",
+  "version": "1.0.0",
+  "description": "Estresse seu website e teste o desempenho!",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/candidovitu/MStress.git"
+  },
+  "author": "Vítor Cândido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/candidovitu/MStress/issues"
+  },
+  "homepage": "https://github.com/candidovitu/MStress#readme"
+}
